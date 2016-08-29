@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25029.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureDemo", "AzureDemo\AzureDemo.csproj", "{3662EA80-F75C-4D97-AA5F-99F198687A0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureDemo.Tests", "AzureDemo.Tests\AzureDemo.Tests.csproj", "{62D69CFA-E302-4C3D-84DA-283FB2695A25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3662EA80-F75C-4D97-AA5F-99F198687A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3662EA80-F75C-4D97-AA5F-99F198687A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3662EA80-F75C-4D97-AA5F-99F198687A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3662EA80-F75C-4D97-AA5F-99F198687A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62D69CFA-E302-4C3D-84DA-283FB2695A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D69CFA-E302-4C3D-84DA-283FB2695A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D69CFA-E302-4C3D-84DA-283FB2695A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D69CFA-E302-4C3D-84DA-283FB2695A25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
